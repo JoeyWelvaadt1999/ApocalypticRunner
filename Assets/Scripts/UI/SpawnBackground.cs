@@ -21,6 +21,8 @@ public class SpawnBackground : MonoBehaviour {
 	}
 
 	void Update() {
+//		_height = 2 * Camera.main.orthographicSize;
+//		_width = _height * Camera.main.aspect;
 		for (int i = 0; i < _max; i++) {
 			if (_backgrounds [i].transform.position.x + _width / 2 < Camera.main.transform.position.x - _width / 2) {
 				_backgrounds [i].transform.position = new Vector2 (Camera.main.transform.position.x + _width * (_backgrounds.Length - 1), _backgrounds[i].transform.position.y);
