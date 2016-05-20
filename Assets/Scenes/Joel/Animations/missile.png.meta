@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 4ffaa8ee145c24e2bbfd03393d764f12
+timeCreated: 1463490945
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: missile_0
+    21300002: missile_1
+    21300004: missile_2
+    21300006: missile_3
+    21300008: missile_4
+    21300010: missile_5
+    21300012: missile_6
+    21300014: missile_7
+    21300016: missile_8
+    21300018: missile_9
+    21300020: missile_10
+    21300022: missile_11
+    21300024: missile_12
+    21300026: missile_13
+    21300028: missile_14
+    21300030: missile_15
+    21300032: missile_16
+    21300034: missile_17
+    21300036: missile_18
+    21300038: missile_19
+    21300040: missile_20
+    21300042: missile_21
+    21300044: missile_22
+    21300046: missile_23
+    21300048: missile_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: missile_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 139
+        width: 26
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: missile_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 139
+        width: 26
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: missile_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 139
+        width: 26
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: missile_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 139
+        width: 25
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: missile_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 139
+        width: 24
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: missile_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 139
+        width: 26
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: missile_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 139
+        width: 26
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: missile_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 139
+        width: 28
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: missile_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 139
+        width: 30
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: missile_9
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 138
+        width: 32
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 62}
+        - {x: -16, y: 49}
+        - {x: -16, y: -53}
+        - {x: -11, y: -62}
+        - {x: 16, y: -62}
+        - {x: 16, y: 47}
+        - {x: 13, y: 62}
+    - name: missile_10
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 138
+        width: 32
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 62}
+        - {x: -16, y: 46}
+        - {x: -16, y: -46}
+        - {x: -11, y: -62}
+        - {x: 16, y: -62}
+        - {x: 16, y: 33}
+        - {x: 10, y: 62}
+    - name: missile_11
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 138
+        width: 32
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 62}
+        - {x: -16, y: 46}
+        - {x: -16, y: -46}
+        - {x: -11, y: -62}
+        - {x: 16, y: -62}
+        - {x: 16, y: 33}
+        - {x: 10, y: 62}
+    - name: missile_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 8
+        width: 30
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: missile_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 8
+        width: 28
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: missile_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 8
+        width: 25
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: missile_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 8
+        width: 26
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: missile_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 8
+        width: 26
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: missile_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 8
+        width: 26
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: missile_18
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 8
+        width: 25
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: missile_19
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 8
+        width: 24
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: missile_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 8
+        width: 26
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: missile_21
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 8
+        width: 26
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: missile_22
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 8
+        width: 26
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: missile_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 8
+        width: 25
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: missile_24
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 8
+        width: 24
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
